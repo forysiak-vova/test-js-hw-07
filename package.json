@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/forysiak-vova/test-js-hw-07/issues"
   },
-  "homepage": "https://github.com/forysiak-vova/test-js-hw-07#readme"
+  "homepage": "https://github.com/forysiak-vova/test-js-hw-07#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
 }
